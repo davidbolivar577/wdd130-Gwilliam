@@ -1,3 +1,23 @@
-header {
-    
+.header {
+    overflow: auto;
+}
+
+.header img {
+    float: left;
+    width: 119;
+    height: 120;
+}
+
+.header h1 {
+    float: left;
+    position: relative;
+    top: 18px;
+    left: 200px;
+    font-family: Chango;
+    /*font-size: ;*/
+
+}
+
+body {
+    background: #5ebb8f;
 }
